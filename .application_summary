@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://sap-process-automation-tfe.launchpad.cfapps.eu10.hana.ondemand.com/lcapequipments.equipmentsLaunchpad-1.0.0/",
+  "DeployedUTCTime": "2024-11-16T10:46:04.040Z",
+  "ApplicationLogURL": "https://logs.cf.eu10-004.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:equipments-srv)))))"
+}
